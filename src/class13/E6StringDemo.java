@@ -2,7 +2,7 @@ package class13;
 
 public class E6StringDemo {
     public static void main(String[] args) {
-        String str="Wife";   //immutable or not changing
+        String str="WIFE";   //immutable or not changing
         str.toLowerCase();
         System.out.println(str);
 
