@@ -5,7 +5,7 @@ public class CarTester {
         Car realCar=new Car();
         realCar.make="Honda";
         realCar.model="Pilot";
-        realCar.year=2022;t
+        realCar.year=2022;
         realCar.weight=4500;
         realCar.color="Blue";
 
