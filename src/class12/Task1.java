@@ -1,6 +1,6 @@
 package class12;
 
-public class Task {
+public class Task1 {
     public static void main(String[] args) {
         /*Store username, password and confirm password from a user and check following requirements:
     Username and Password cannot be  empty, if so→ message=”Username or Password cannot be empty”.

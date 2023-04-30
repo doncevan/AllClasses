@@ -6,6 +6,6 @@ public class E2D2Arrays {
         matrix [0][0]=10;
         matrix [1][1]=20;
         matrix [2][2]=50;
-        System.out.println(matrix[1][2]);
+        System.out.println(matrix[1][1]);
     }
 }
