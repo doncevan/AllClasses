@@ -2,7 +2,7 @@ package class12;
 
 public class E12StringDemo {
     public static void main(String[] args) {
-        // sunString is uset to get a part of the compete String
+        // sunString is used to get a part of the complete String
         String sentence="yup we have another class";
         System.out.println(sentence.substring(7));
         System.out.println(sentence.substring(12,20));
