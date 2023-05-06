@@ -38,33 +38,16 @@ below code will create the object of the Dog class
 new Dog("jack","black","persian",12)
 new Dog()
  */
-        Dog dog1=new Dog("jack","black","persian",12);
-        Dog dog2=new Dog("shaggy","white","Huskey",8);
-        Dog dog3=new Dog("Fluffy","Pink","British",7);
-        Dog dog4=new Dog("Papi","Brown","Asian",6);
-        Dog dog5=new Dog("Papi2","Brown Black Mix","Asian",6);
+        Dog dog1 = new Dog("jack", "black", "persian", 12);
+        Dog dog2 = new Dog("shaggy", "white", "Huskey", 8);
+        Dog dog3 = new Dog("Fluffy", "Pink", "British", 7);
+        Dog dog4 = new Dog("Papi", "Brown", "Asian", 6);
+        Dog dog5 = new Dog("Papi2", "Brown Black Mix", "Asian", 6);
         dog1.printInfo();
         dog2.printInfo();
         dog3.printInfo();
         dog4.printInfo();
         dog5.printInfo();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     }
