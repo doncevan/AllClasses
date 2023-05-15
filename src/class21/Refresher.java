@@ -14,13 +14,8 @@ public class Refresher {
         for (String name : names) {
             System.out.println(name.length());
         }
-        Dog dog1 = new Dog("Lal", "Black", "Persian");
-        Dog[] dogs = {dog1, new Dog("Papi", "White", "chinese")};
 
-        for (Dog dog : dogs) {
-            dog.printInfo();
         }
 
 
     }
-}

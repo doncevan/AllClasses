@@ -17,7 +17,6 @@ public class StudentTester {
             mates.walk();
         }
 
-        // break till 2:17
 
         Student syntax = new SchoolStudent();
         if (syntax instanceof SyntaxStudent) {
