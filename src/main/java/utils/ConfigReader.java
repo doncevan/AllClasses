@@ -27,7 +27,7 @@ public class ConfigReader {
         return properties;
     }
 
-    public static String getProperty(String key) throws IOException {
+    public static String getProperty(String key)  {
         Properties properties = getProperties(Constants.CONFIG_READER_PATH);
         String value = properties.getProperty(key);
         return value;
