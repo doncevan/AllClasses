@@ -17,9 +17,9 @@ public class E2ArrayManipulator {
      */
     int sumArr(int[] arr) {
         int sum = 0;
-        for (int i = 0; i < arr.length; i++) {
+        for (int j : arr) {
 
-            sum = sum + arr[i];
+            sum = sum + j;
         }
         return sum;
     }
