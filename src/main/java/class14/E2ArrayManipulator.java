@@ -12,7 +12,7 @@ public class E2ArrayManipulator {
     parameters => (int [] arr)
     body=>
     {
-    go throug all the elements of the array add them and return the results
+    go through all the elements of the array add them and return the results
     }
      */
     int sumArr(int[] arr) {
@@ -24,7 +24,7 @@ public class E2ArrayManipulator {
         return sum;
     }
 
-    //braek till 11:50
+    //break till 11:50
     public static void main(String[] args) {
 
         E2ArrayManipulator obj = new E2ArrayManipulator();

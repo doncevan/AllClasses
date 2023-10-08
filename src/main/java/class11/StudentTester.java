@@ -5,6 +5,8 @@ public class StudentTester {
     public static void main(String[] args) {
         Student studentAsghar=new Student();
         studentAsghar.sleep();
+        studentAsghar.age=25;
+        studentAsghar.walk();
     }
 
 
