@@ -23,6 +23,5 @@ public class WholeNumbersDemo {
          */
         long veryBigNumber = 45_454_545_445_4541L;
         System.out.println(veryBigNumber);
-
     }
 }

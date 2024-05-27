@@ -10,7 +10,7 @@ public class ReverseInt {
     }
 
     public static void main(String[] args) {
-        System.out.println(reverseInteger(12345));
+        System.out.println(reverseInteger(123456789));
 
     }
 }

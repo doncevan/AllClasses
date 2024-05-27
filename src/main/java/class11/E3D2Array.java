@@ -12,7 +12,7 @@ public class E3D2Array {
             for (int num : arr1D) {
                 System.out.print(num+" ");
             }
-            System.out.println();
+           System.out.println();
         }
     }
 }

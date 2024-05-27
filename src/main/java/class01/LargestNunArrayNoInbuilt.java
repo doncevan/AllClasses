@@ -9,13 +9,11 @@ public class LargestNunArrayNoInbuilt {
         for (int element : numbers) {
             if (element > largest) {
                 largest2 = largest;
-                largest = element;
-            } else if (element > largest2 && element != largest) {
-                largest2 = element;
-            }
+                largest = element;}
+            if (element > largest2 && element != largest) {
+                largest2 = element;}
             if (element < smallest) {
-                smallest = element;
-            }
+                smallest = element;}
         }
         System.out.println("Smallest " + smallest);
         System.out.println("Biggest " + largest);
